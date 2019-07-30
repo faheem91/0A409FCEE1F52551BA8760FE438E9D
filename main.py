@@ -4,14 +4,6 @@
 ################################################
 Alert Management System (AMS) - Scrapper 
 
-*******
-AUTHORS
-*******
-1 - Faheem ud Din 
-2 - Ahmad Turab
-3 - Syed Mehdi 
-4 - Fahad Jabbar 
-
 ***************
 IMPLEMENTATIONS
 ***************
